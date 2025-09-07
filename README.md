@@ -1,4 +1,4 @@
-# Clarity - Subscription Management Dashboard 📊
+# Clarity - Subscription Management Dashboard 
 
 A UI/UX case study for a clean, intuitive, and empowering dashboard that helps users manage their monthly subscriptions and gain financial clarity.
 
